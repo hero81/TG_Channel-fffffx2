@@ -1,584 +1,20 @@
 [
   {
     "query": {
-      "link": "tg://proxy?server=5.78.87.173&port=443&secret=ee00000000000000000000000000000000616e6e6173682e636f6d20",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=125.124.34.181&amp;port=20433&amp;secret=ee22567cf0aa8efe7271151cb65b18a4b7617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=125.124.34.181&amp;port=25850&amp;secret=ee22567cf0aa8efe7271151cb65b18a4b7617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=16.163.52.125&port=54291&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "link": "tg://proxy?server=16.163.52.125&port=29435&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
       "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=120.233.42.64&port=49401&secret=ee4f9bb601bf37a51d3994cac7f6309b5b617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=192.210.160.230&port=443&secret=ee0d9e53ddfb6e26dbcf575d8fe768911d6674702e64656269616e2e6f7267",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.217.183.101&port=443&secret=ee9ca9cab0a994f394fb354b56485039bd617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.218.155.228&port=443&secret=eeb2713e8fd5516bc6e0dbbab5cc030672617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.222.143.192&amp;port=1888&amp;secret=eeab60308450cc642afaf561b2b988af7663662e71712e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=44.195.243.230&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.218.186.141&port=443&secret=ee02498083f52ef87d3b360601c97411f5617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.27&port=59559&secret=ee753bfbb9debda364342f03f21afcf6ca617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=44.215.240.131&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.190&port=22368&secret=eedb2b017cbcda89b418ff0365bbab7dec617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=34.150.69.105&port=14232&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=52.77.204.102&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=34.143.160.222&port=25359&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.217.200.74&port=8443&secret=ee79255603fe1d03f9ecd6df5202560eac617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=16.162.161.217&port=46658&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.218.156.217&port=443&secret=ee4e702037953c9524445612eeb6e5d108617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=183.232.113.6&port=39008&secret=ee0a57bcee5ba3257cf488c5edb77bc5ed7777772e62696e672e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=159.223.204.96&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.217.138.211&port=443&secret=ee21206d894f8f42a96847fdb908b8ceb4617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=207.148.45.59&amp;port=8443&amp;secret=ee90a420a8fef5cbabffcfeefe68f73adb636663666b6b31342e62757a7a",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.27&port=23227&secret=ee9214830e727f7711c6ef8222e99cf9d4617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.218.94.224&port=8443&secret=ee7489ae49b10ac6d3b974ed5d2fee3712617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.210.2.56&port=8443&secret=ee9fb199e2622f7f58344018a6ef018b09617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=44.218.140.88&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=13.214.213.59&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=125.124.182.141&amp;port=40194&amp;secret=ee72987d594fc35d4f6bc61b7da26feeeb617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=24.199.118.248&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=69.160.171.42&port=8443&secret=ee90a420a8fef5cbabffcfeefe68f73adb636663666b6b31342e62757a7a",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.27&port=23223&secret=ee9214830e727f7711c6ef8222e99cf9d4617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=14.116.204.59&port=13214&secret=ee47b92152aa748612333acf10bed66ca77777772e636c6f7564666c6172652e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=52.70.207.26&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=207.148.45.57&port=8443&secret=ee90a420a8fef5cbabffcfeefe68f73adb636663666b6b31342e62757a7a",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=183.240.220.19&port=22220&secret=ee0a57bcee5ba3257cf488c5edb77bc5ed7777772e62696e672e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=206.119.124.40&port=10443&secret=ee4d1a3e61a6183a1c40dd49035efa25ce617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=125.124.34.181&amp;port=26151&amp;secret=ee22567cf0aa8efe7271151cb65b18a4b7617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=146.190.129.54&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.218.227.14&port=443&secret=eec54aa4ca2d7cb6570f2f93b038fb5036617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=125.124.182.141&amp;port=53052&amp;secret=ee72987d594fc35d4f6bc61b7da26feeeb617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=44.212.164.171&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=18.166.211.60&port=8443&secret=ee3b7609a6542f9adece8293271feff138617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=47.243.136.111&port=443&secret=eeeaf4d3dd3f0658d42c07b330f54491f6617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=13.214.134.119&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=147.182.246.167&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=34.201.78.164&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=18.142.193.217&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.222.151.119&amp;port=1888&amp;secret=eeca3c2ebe042edcad2c83558dd6afe5a463662e71712e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=146.190.129.54&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.218.232.28&port=443&secret=ee94f78fba2037192dcd454396e4e7ef30617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=212.69.14.45&amp;port=7980&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=15.168.14.161&port=27118&secret=ee150545f83d5168b4e550059bd68291977777772e62616964752e636f6d",
+      "link": "tg://proxy?server=138.2.54.140&port=39004&secret=ee0a57bcee5ba3257cf488c5edb77bc5ed7777772e62696e672e636f6d",
       "name": "TG@fffffx2|\ud83c\uddef\ud83c\uddf5"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=101.89.155.168&port=17371&secret=ee2a5962ed5e6a4047b46ba2f4d3aa48d0617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.217.198.247&port=443&secret=eec44fc6420a244a5b953cb1129e71c496617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=101.89.155.168&port=32251&secret=ee1cac0fb4c5cfefe2361906f51b12ba36617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=24.199.101.18&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=104.234.176.12&port=443&secret=ee838224d961f05a654959c56b36fe72a46d2e687536302e636e",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=183.240.220.19&port=22221&secret=ee0a57bcee5ba3257cf488c5edb77bc5ed7777772e62696e672e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=146.190.147.117&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=147.182.246.167&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.64&port=56405&secret=ee3a6a57a61ad834e327765f6806f00765617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=101.89.141.40&port=39102&secret=ee09261b571871f96cb4eec42fb5348f24617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=143.198.154.23&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.27&port=50567&secret=ee8514db93adcedc8275d53629f17fdeca617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.27&port=12377&secret=ee3571a7477125364556b53ba23177630e617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=101.89.155.168&port=41508&secret=ee02dbe8f6478b743213a216783016b732617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.64&port=49363&secret=ee4f9bb601bf37a51d3994cac7f6309b5b617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=165.232.137.164&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.27&port=24226&secret=ee9214830e727f7711c6ef8222e99cf9d4617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=50.16.236.246&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=45.56.86.200&port=3141&secret=eeb7e738b1f2e57814a8780416acf458dd66366265333338653735653564633432306437666333613733326162306438382e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=18.140.107.6&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
+      "link": "tg://proxy?server=170.187.197.123&port=8080&secret=ee4181fa61eb09e3b7b5503a49114db169617a7572652e6d6963726f736f66742e636f6d",
       "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=45.12.207.173&port=65077&secret=ee0a5ea14fe8c476ba4678ed9b166244da617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddef\ud83c\uddf5"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=101.89.155.168&amp;port=27530&amp;secret=ee22567cf0aa8efe7271151cb65b18a4b7617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=35.173.158.237&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=52.55.133.58&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=52.194.226.28&port=40770&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddef\ud83c\uddf5"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=42.7.24.133&port=12597&secret=eebf1db17f1ac689ce8efbe57ce7d11a02617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.217.182.150&port=7777&secret=ee0804c75d0ad0d0e692d800c76176daf9617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.64&port=19655&secret=ee2b2e4abe28ef391379615e549b4e9ac4617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=18.163.197.252&port=8443&secret=eee87388a48fc748c26a69e2d18600ac82617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=183.240.220.19&port=22223&secret=ee0a57bcee5ba3257cf488c5edb77bc5ed7777772e62696e672e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=54.210.69.77&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=147.182.242.83&port=443&secret=eed0abd3589a093b757e99c64c601ef91c6d2e687536302e636e",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.218.52.180&port=8888&secret=ee41644394de1ed9d752338e8870ef6c26617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=47.242.238.149&port=8888&secret=eee83bbedbd489a22202d943d387531d10617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=146.190.34.194&port=443&secret=ee559380d32978873f5bd214961d07470567697465652e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=52.77.67.237&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=44.199.87.31&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=54.211.67.57&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=54.254.238.132&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=34.203.143.237&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.190&port=13643&secret=eecb84cb25ed67eef4d1c0cb16b7a91002617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=13.251.254.45&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=14.29.115.141&port=55945&secret=eee50022b4aa96ec601e2628c99ef27d8a7777772e636c6f7564666c6172652e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
     }
   },
   {
@@ -589,68 +25,20 @@
   },
   {
     "query": {
-      "link": "tg://proxy?server=8.218.143.34&port=443&secret=ee8d77a629d54005097e6665c2669ada50617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=47.242.116.229&port=8443&secret=eebca040e9d3a4e5059717ab446e7210e6617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=5.78.45.178&port=443&secret=ee00000000000000000000000000000000686f73742d69722e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=64.227.106.79&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=13.228.104.68&port=443&secret=eed67a1a1090d4d87392bc208c980694f02020202020",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=207.148.45.58&amp;port=8443&amp;secret=ee90a420a8fef5cbabffcfeefe68f73adb636663666b6b31342e62757a7a",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=54.146.74.235&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=34.150.69.105&port=12483&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=125.124.34.181&port=21799&secret=eeb97985674eb0d16b80521fab2c60100c617a7572652e6d6963726f736f66742e636f6d",
+      "link": "tg://proxy?server=101.89.141.40&port=45660&secret=ee09261b571871f96cb4eec42fb5348f24617a7572652e6d6963726f736f66742e636f6d",
       "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=16.163.52.125&port=29435&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+      "link": "tg://proxy?server=18.140.2.89&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=44.212.206.196&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+      "link": "tg://proxy?server=54.254.238.132&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
     }
   },
   {
@@ -661,79 +49,265 @@
   },
   {
     "query": {
-      "link": "tg://proxy?server=8.217.180.97&port=443&secret=eed3e2c44fc50b99e27562877ec0ed159c617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=104.234.176.12&port=443&secret=ee838224d961f05a654959c56b36fe72a467697465652e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=24.199.101.18&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
+      "link": "tg://proxy?server=146.190.34.194&port=443&secret=ee559380d32978873f5bd214961d07470567697465652e636f6d",
       "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=5.161.206.238&port=156&secret=ee3330e547d760f0e3b53eb430c871f1556c65616465722e6972",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=54.163.183.133&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.217.204.152&port=443&secret=eec0dde6e4879fcab71acb76a4210d91c0617a7572652e6d6963726f736f66742e636f6d",
+      "link": "tg://proxy?server=8.217.206.61&port=443&secret=eea72bd9b386d772b7571af8b22520d3b1617a7572652e6d6963726f736f66742e636f6d",
       "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=120.233.42.27&port=44575&secret=ee9bb399ec4093e8a44def62279637224c617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+      "link": "tg://proxy?server=147.182.242.83&port=443&secret=eed0abd3589a093b757e99c64c601ef91c6d2e687536302e636e",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=8.218.142.194&port=9999&secret=eeec66d7f4e0b460114846fcd785a0200e617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+      "link": "tg://proxy?server=54.167.162.4&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=112.16.227.54&amp;port=55313&amp;secret=eeb84b9f7e08fde2346ad91bda7b148f5d7777772e636c6f7564666c6172652e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+      "link": "tg://proxy?server=164.92.74.98&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=14.116.204.59&port=51850&secret=ee928c228040b27c833a65b4f63cb4d65a7777772e636c6f7564666c6172652e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=34.143.160.222&port=14360&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "link": "tg://proxy?server=18.142.37.219&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
       "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=137.184.116.223&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
+      "link": "tg://proxy?server=64.227.106.79&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
       "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=159.223.204.96&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
+      "link": "tg://proxy?server=146.190.59.95&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=168.138.176.228&port=29528&secret=eec046d4878bcc9b7b4e8123744011d072636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.64&port=24983&secret=ee7234655c548da690736632a2becba26b7777772e636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.64&port=43444&secret=eea63fee0938abbe88c1daab84eaded8a57777772e636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=54.169.31.196&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=18.142.193.217&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=34.205.193.212&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.210.107.228&port=443&secret=ee91d8e7924ccf2e4f6eed1b789d148563617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=34.81.146.131&port=21770&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf9\ud83c\uddfc"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=14.29.115.141&port=51800&secret=ee1172f2fa1af8e1af0fb9344fea51af747777772e636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=35.220.157.213&port=46910&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.190&port=26577&secret=eedcaad258e2cbaf5071386aaaf0022609617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=34.92.24.196&port=55006&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=14.116.204.59&port=58422&secret=ee907c609b949411f7ec232dbe0c7a69977777772e636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=13.215.47.219&port=31109&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=52.194.226.28&port=43683&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddef\ud83c\uddf5"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.27&port=19655&secret=ee2b2e4abe28ef391379615e549b4e9ac4617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=34.81.210.14&port=17736&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf9\ud83c\uddfc"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=5.78.45.178&port=443&secret=ee00000000000000000000000000000000686f73742d69722e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.27&port=56405&secret=ee3a6a57a61ad834e327765f6806f00765617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.27&port=43001&secret=eeb796ff97a47015493d63814b10476777617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=207.148.45.57&amp;port=8443&amp;secret=ee90a420a8fef5cbabffcfeefe68f73adb636663666b6b31342e62757a7a",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=143.198.55.192&port=443&secret=ee1d0766554d4946a221d841414f0d52706d2e687536302e636e",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=183.240.220.19&port=22222&secret=ee0a57bcee5ba3257cf488c5edb77bc5ed7777772e62696e672e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.218.227.14&port=443&secret=eec54aa4ca2d7cb6570f2f93b038fb5036617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.64&port=27132&secret=eee81805bc5e741c412514f38c774771717777772e636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=52.74.109.111&port=443&secret=eed67a1a1090d4d87392bc208c980694f02020202020",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=44.212.206.196&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=146.190.147.117&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=16.163.52.125&port=16416&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.217.183.101&port=443&secret=ee9ca9cab0a994f394fb354b56485039bd617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=24.199.101.190&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=122.248.214.42&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=125.124.182.141&amp;port=43939&amp;secret=ee72987d594fc35d4f6bc61b7da26feeeb617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=143.198.154.23&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.190&port=50817&secret=ee2c378d212ebca414d2f642029f9f1a96617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=212.69.14.45&amp;port=7980&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA",
       "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
@@ -745,14 +319,26 @@
   },
   {
     "query": {
-      "link": "tg://proxy?server=8.217.206.61&port=443&secret=eea72bd9b386d772b7571af8b22520d3b1617a7572652e6d6963726f736f66742e636f6d",
+      "link": "tg://proxy?server=112.16.227.54&amp;port=55313&amp;secret=eeb84b9f7e08fde2346ad91bda7b148f5d7777772e636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=156.227.6.16&port=12580&secret=eee868d82dd8ddd4c969eeee7fc1ecb8c4617a7572652e6d6963726f736f66742e636f6d",
       "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=173.82.227.139&port=443&secret=eedbf15b3f84bcbfed5245946c773cfa21617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+      "link": "tg://proxy?server=34.150.69.105&port=12483&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.27&port=23229&secret=ee9214830e727f7711c6ef8222e99cf9d4617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
     }
   },
   {
@@ -763,170 +349,74 @@
   },
   {
     "query": {
-      "link": "tg://proxy?server=13.215.47.219&port=37517&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=54.169.31.196&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=3.1.132.21&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=164.92.70.56&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=183.232.113.16&port=16362&secret=eebf1db17f1ac689ce8efbe57ce7d11a02617a7572652e6d6963726f736f66742e636f6d",
+      "link": "tg://proxy?server=125.124.34.181&port=21799&secret=ee02dbe8f6478b743213a216783016b732617a7572652e6d6963726f736f66742e636f6d",
       "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=54.251.154.3&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+      "link": "tg://proxy?server=112.16.227.54&amp;port=15981&amp;secret=eed5c8f7792375242dc774f9710c5276837777772e636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=8.217.133.186&port=8443&secret=ee84e01a88759c0b3fe8cbaf7916c94913617a7572652e6d6963726f736f66742e636f6d",
+      "link": "tg://proxy?server=120.233.42.27&port=44575&secret=ee9bb399ec4093e8a44def62279637224c617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.217.182.90&port=443&secret=ee47a7a04404223dfb36badc6ef15d3b19617a7572652e6d6963726f736f66742e636f6d",
       "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=120.233.42.190&port=59999&secret=ee2c378d212ebca414d2f642029f9f1a96617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=14.116.204.59&port=51800&secret=ee1172f2fa1af8e1af0fb9344fea51af747777772e636c6f7564666c6172652e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=44.208.202.116&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
+      "link": "tg://proxy?server=137.184.4.171&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
       "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=8.218.63.4&port=443&secret=eebefaf1fe832c18c7f5d23c45a6651068617a7572652e6d6963726f736f66742e636f6d",
+      "link": "tg://proxy?server=8.218.94.224&port=8443&secret=ee7489ae49b10ac6d3b974ed5d2fee3712617a7572652e6d6963726f736f66742e636f6d",
       "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=173.82.219.219&port=443&secret=ee7d7395d4be6222451b6cc7927d5ee215617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.64&port=46551&secret=ee5003a1dc196f55550175f65609fe9a58617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=14.29.115.141&port=40478&secret=ee8253d631ae9b5bff3c65b52e7b66eb0b7777772e636c6f7564666c6172652e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=14.29.115.141&port=51800&secret=ee1172f2fa1af8e1af0fb9344fea51af747777772e636c6f7564666c6172652e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.222.183.177&amp;port=1888&amp;secret=eed0c17bd46eaf5b908964578efd940c8963662e71712e636f6d",
+      "link": "tg://proxy?server=5.253.36.138&port=443&secret=eebe4abf2cb1fcd94d8df2f3f37024b354617a7572652e6d6963726f736f66742e636f6d",
       "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=34.81.210.14&port=19881&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddf9\ud83c\uddfc"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=101.89.141.40&port=50561&secret=ee09261b571871f96cb4eec42fb5348f24617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=52.74.109.111&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=52.194.226.28&port=46411&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddef\ud83c\uddf5"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.217.7.134&port=443&secret=ee11dd0cae33e87c908aa5d79f6c37eb78617a7572652e6d6963726f736f66742e636f6d",
+      "link": "tg://proxy?server=69.160.171.42&amp;port=8443&amp;secret=ee90a420a8fef5cbabffcfeefe68f73adb636663666b6b31342e62757a7a",
       "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=120.233.42.190&port=39999&secret=eedcaad258e2cbaf5071386aaaf0022609617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=18.140.197.122&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=34.202.113.241&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=101.89.155.168&amp;port=48101&amp;secret=ee22567cf0aa8efe7271151cb65b18a4b7617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.217.185.187&port=443&secret=eef98ea628692725b9af801c5579e4486b617a7572652e6d6963726f736f66742e636f6d",
+      "link": "tg://proxy?server=207.148.45.57&port=8443&secret=ee90a420a8fef5cbabffcfeefe68f73adb636663666b6b31342e62757a7a",
       "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=3.221.250.67&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+      "link": "tg://proxy?server=125.124.34.181&amp;port=26151&amp;secret=ee22567cf0aa8efe7271151cb65b18a4b7617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=165.232.137.164&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+      "link": "tg://proxy?server=47.243.239.86&port=443&secret=eec014c23029ea7b539cf1fa6c3977fcba617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=203.189.1.25&amp;port=40194&amp;secret=ee72987d594fc35d4f6bc61b7da26feeeb617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
     }
   },
   {
@@ -937,49 +427,91 @@
   },
   {
     "query": {
-      "link": "tg://proxy?server=5.78.66.26&port=443&secret=ee00000000000000000000000000000000616e6e6173682e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=146.190.59.95&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.27&port=43050&secret=eeef90effd2ac46874a2226a0d9e16f705617a7572652e6d6963726f736f66742e636f6d",
+      "link": "tg://proxy?server=14.29.115.141&port=40478&secret=ee8253d631ae9b5bff3c65b52e7b66eb0b7777772e636c6f7564666c6172652e636f6d",
       "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=34.201.78.164&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
+      "link": "tg://proxy?server=146.190.147.117&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
       "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=8.219.222.243&amp;port=1888&amp;secret=ee246fc40d9106e69bf004abe67b4dd35d63662e71712e636f6d",
+      "link": "tg://proxy?server=143.198.154.23&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=18.143.143.24&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972",
       "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=14.116.204.59&port=38144&secret=ee8372c362044a44e274b1311a323bc8257777772e636c6f7564666c6172652e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+      "link": "tg://proxy?server=8.219.222.38&amp;port=1888&amp;secret=ee2185918e4d5d930a2660668ffe8d82bb63662e71712e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=137.184.116.223&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
+      "link": "tg://proxy?server=137.184.116.223&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
       "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=54.165.53.183&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
+      "link": "tg://proxy?server=120.233.42.27&port=17440&secret=ee8514db93adcedc8275d53629f17fdeca617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=138.2.54.140&port=39006&secret=ee0a57bcee5ba3257cf488c5edb77bc5ed7777772e62696e672e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddef\ud83c\uddf5"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=3.219.62.110&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.64&port=52701&secret=ee6519d33fec53a53b5f42c41960d5f1567777772e636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=hhhh.nmsl.sb&port=22222&secret=ee0e410d81c1a5afabe3f73b176e7bfe3e617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf9\ud83c\uddfc"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=35.220.157.213&port=25440&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=24.199.101.190&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=164.92.74.98&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=147.182.242.83&port=443&secret=ee84dd7b7dc9b79e0a882469c776295ee77777772e64656269616e2e6f7267",
       "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
@@ -991,127 +523,91 @@
   },
   {
     "query": {
-      "link": "tg://proxy?server=125.124.182.141&amp;port=43939&amp;secret=ee72987d594fc35d4f6bc61b7da26feeeb617a7572652e6d6963726f736f66742e636f6d",
+      "link": "tg://proxy?server=8.217.181.237&port=443&secret=ee36d2d5656d689548b56f7dce8f14996f617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=45.56.86.200&port=3141&secret=eeb7e738b1f2e57814a8780416acf458dd66366265333338653735653564633432306437666333613733326162306438382e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.218.232.28&port=443&secret=ee94f78fba2037192dcd454396e4e7ef30617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=125.124.34.181&port=29063&secret=eeafc9f5a12c79b2b59dd9e465376d53d6617a7572652e6d6963726f736f66742e636f6d",
       "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=34.205.193.212&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+      "link": "tg://proxy?server=8.222.143.192&amp;port=1888&amp;secret=eeab60308450cc642afaf561b2b988af7663662e71712e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=112.16.227.54&amp;port=17951&amp;secret=ee2b3e3d290dbe1cd1d8eebdeeff9db7a17777772e636c6f7564666c6172652e636f6d",
+      "link": "tg://proxy?server=47.236.18.187&amp;port=1888&amp;secret=ee930d9e6b85e9038ee80a39816ed6e87863662e71712e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=47.243.136.111&port=443&secret=eeeaf4d3dd3f0658d42c07b330f54491f6617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=101.89.155.168&port=32251&secret=ee1cac0fb4c5cfefe2361906f51b12ba36617a7572652e6d6963726f736f66742e636f6d",
       "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=52.44.239.226&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=13.215.47.219&port=35493&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=45.79.50.115&port=558&secret=eece50eb2926268e6d6bd5540334a9fef8617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.217.133.128&port=443&secret=ee9a64f222085776af9e286ab565a400e7617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=146.190.93.80&port=443&secret=ee3f3a60978bb7c4ff5ad15e3d23a5a3e9626c6f672e636c6f7564666c6172652e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.210.107.228&port=443&secret=ee91d8e7924ccf2e4f6eed1b789d148563617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=54.179.163.204&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=18.139.44.19&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.217.8.163&port=443&secret=ee7454029107c8b359f374b1484430f92e617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=47.243.115.13&port=443&secret=ee4476bb8528b6ee23922536dea397e34d617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.217.130.190&port=443&secret=eed14b3a99e58b2ffd6c185b34165f7f34617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=69.160.171.44&port=8443&secret=ee90a420a8fef5cbabffcfeefe68f73adb636663666b6b31342e62757a7a",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=194.116.217.21&port=443&secret=ee1603010200010001fc030386e24c3add79616e6465782e7275",
-      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.27&port=43001&secret=eeb796ff97a47015493d63814b10476777617a7572652e6d6963726f736f66742e636f6d",
+      "link": "tg://proxy?server=14.116.204.59&port=38144&secret=ee8372c362044a44e274b1311a323bc8257777772e636c6f7564666c6172652e636f6d",
       "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=35.168.244.173&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
+      "link": "tg://proxy?server=16.162.161.217&port=36550&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=156.227.6.253&port=65022&secret=eed8e6b65e5bd1a7aad1936a2f1b195947617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=147.182.246.167&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
       "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=143.198.107.118&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
+      "link": "tg://proxy?server=5.161.206.238&port=156&secret=ee3330e547d760f0e3b53eb430c871f1556c65616465722e6972",
       "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=120.233.42.27&port=30311&secret=eed39bb2b4f99efdfc2a23fa0c894c7827617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+      "link": "tg://proxy?server=34.81.210.14&port=28416&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf9\ud83c\uddfc"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=24.199.101.190&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
+      "link": "tg://proxy?server=143.198.107.118&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
       "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
@@ -1123,62 +619,32 @@
   },
   {
     "query": {
-      "link": "tg://proxy?server=146.190.151.59&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
+      "link": "tg://proxy?server=183.232.113.6&port=39004&secret=ee0a57bcee5ba3257cf488c5edb77bc5ed7777772e62696e672e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.222.168.175&amp;port=1888&amp;secret=eee9f578335d4789a2cec9399341b9c9ff63662e71712e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=165.232.137.164&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
       "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=173.82.219.230&port=443&secret=eefce81724feb06d76c3b7f2dfdadf5dc6617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.217.180.135&port=443&secret=ee911a37704eab1e451cc98e2c73178dd7617a7572652e6d6963726f736f66742e636f6d",
+      "link": "tg://proxy?server=69.160.171.44&amp;port=8443&amp;secret=ee90a420a8fef5cbabffcfeefe68f73adb636663666b6b31342e62757a7a",
       "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=120.233.42.27&port=42030&secret=eede16f5093d97482abe859e30a1e08c56617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=8.219.247.128&amp;port=1888&amp;secret=ee6dfcf0eb85c5c5634a9d3804d0f57de163662e71712e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.27&port=47135&secret=eed8674e989d3ad6b6ee00303799abfbf1617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=47.236.18.187&amp;port=1888&amp;secret=ee930d9e6b85e9038ee80a39816ed6e87863662e71712e636f6d",
-      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=120.233.42.64&port=44252&secret=eea9d3f7a570571c3479fc58d9e3162e7d617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=14.116.204.59&port=40621&secret=ee86ffe8e3bba21b49165a59cc2422961b7777772e636c6f7564666c6172652e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
-    }
-  },
-  {
-    "query": {
-      "link": "tg://proxy?server=203.189.1.25&amp;port=53052&amp;secret=ee72987d594fc35d4f6bc61b7da26feeeb617a7572652e6d6963726f736f66742e636f6d",
-      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+      "link": "tg://proxy?server=24.199.118.248&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
   {
@@ -1189,19 +655,271 @@
   },
   {
     "query": {
-      "link": "tg://proxy?server=16.163.52.125&port=16416&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "link": "tg://proxy?server=8.217.200.74&port=8443&secret=ee79255603fe1d03f9ecd6df5202560eac617a7572652e6d6963726f736f66742e636f6d",
       "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=147.182.246.167&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
+      "link": "tg://proxy?server=159.223.204.96&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
       "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
     }
   },
   {
     "query": {
-      "link": "tg://proxy?server=120.233.42.27&port=23229&secret=ee9214830e727f7711c6ef8222e99cf9d4617a7572652e6d6963726f736f66742e636f6d",
+      "link": "tg://proxy?server=15.168.14.161&port=27118&secret=ee150545f83d5168b4e550059bd68291977777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddef\ud83c\uddf5"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=13.215.47.219&port=37517&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.217.7.134&port=443&secret=ee11dd0cae33e87c908aa5d79f6c37eb78617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.27&port=47135&secret=eed8674e989d3ad6b6ee00303799abfbf1617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.64&port=31919&secret=ee3a3b5e5570e8ef104cb012a31100d8e2617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=146.190.59.95&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.27&port=42030&secret=eede16f5093d97482abe859e30a1e08c56617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=44.208.202.116&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=101.89.155.168&amp;port=30050&amp;secret=ee22567cf0aa8efe7271151cb65b18a4b7617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.64&port=47135&secret=eed8674e989d3ad6b6ee00303799abfbf1617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=164.92.74.98&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=13.250.246.229&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=23.22.248.125&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=146.190.129.54&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=14.116.204.59&port=59878&secret=ee9076b2a721087c6a11cc6fc1dd08238a7777772e636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.219.55.18&amp;port=1888&amp;secret=ee05f2f78d5b510cbe0078ab700950f80263662e71712e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=18.139.44.19&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=143.198.107.118&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.27&port=20833&secret=eedb2b017cbcda89b418ff0365bbab7dec617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=18.163.197.252&port=8443&secret=eee87388a48fc748c26a69e2d18600ac82617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=164.92.70.56&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.222.185.65&port=443&secret=ee6d41bc7948ed825c805f0e12465ac0b0617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=101.89.155.168&port=41508&secret=eeb97985674eb0d16b80521fab2c60100c617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=146.190.151.59&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=1.170.218.243&port=443&secret=eefc3a37df35275b8ad5c1f0217d484b0761702d736f757468656173742d312e616d617a6f6e7365732e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf9\ud83c\uddfc"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=13.228.104.68&port=443&secret=eed67a1a1090d4d87392bc208c980694f02020202020",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=13.229.164.162&port=443&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA==",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=34.81.210.14&port=18852&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf9\ud83c\uddfc"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=125.124.34.181&port=57004&secret=ee09261b571871f96cb4eec42fb5348f24617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=50.16.236.246&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.64&port=42199&secret=ee62377031440e906fa5f9b82aff0358d4617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=54.165.53.183&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=44.195.243.230&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=159.223.204.96&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.217.128.227&port=443&secret=ee27a5f80668336f28b23f4346708c42ef617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=24.199.101.190&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=16.162.161.217&port=40093&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.27&port=23225&secret=ee9214830e727f7711c6ef8222e99cf9d4617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=47.243.131.255&port=443&secret=ee974decf7c84ad5bf19f20f55b70a99c3617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=54.205.98.36&port=8443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=5.161.133.157&port=2992&secret=eecf108b9c67b6281dbb10b40677ce5f6c7331302e6e61646265617470726f2e6972",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=47.242.116.229&port=8443&secret=eebca040e9d3a4e5059717ab446e7210e6617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.64&port=45694&secret=ee550869d644ab0703641136e44018c6fd7777772e636c6f7564666c6172652e636f6d",
       "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
     }
   },
@@ -1213,13 +931,529 @@
   },
   {
     "query": {
-      "link": "tg://proxy?server=8.222.161.224&amp;port=1888&amp;secret=eef6bd8b09995fd0647d959eabb2de7d4a63662e71712e636f6d",
+      "link": "tg://proxy?server=120.233.42.27&port=44252&secret=eea9d3f7a570571c3479fc58d9e3162e7d617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.27&port=58523&secret=ee5003a1dc196f55550175f65609fe9a58617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.218.189.35&port=443&secret=ee9676e7f69abfdc3d9f6dffa66372a6bc617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=125.124.182.141&amp;port=53052&amp;secret=ee72987d594fc35d4f6bc61b7da26feeeb617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=125.124.34.181&port=41252&secret=eeb72b4d1562b907457873c5f5f9816f42617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=137.184.4.171&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=125.124.34.181&amp;port=46072&amp;secret=ee22567cf0aa8efe7271151cb65b18a4b7617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=14.29.115.141&port=58422&secret=ee907c609b949411f7ec232dbe0c7a69977777772e636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=5.78.87.173&port=443&secret=ee00000000000000000000000000000000616e6e6173682e636f6d20",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=52.194.226.28&port=40770&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddef\ud83c\uddf5"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=203.189.1.25&amp;port=53052&amp;secret=ee72987d594fc35d4f6bc61b7da26feeeb617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=44.212.164.171&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=164.92.70.56&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=156.227.6.77&port=9999&secret=ee4f7e4f140a0007c08884bb9488113436617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=207.148.45.59&amp;port=8443&amp;secret=ee90a420a8fef5cbabffcfeefe68f73adb636663666b6b31342e62757a7a",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=2.58.86.146&port=443&secret=eeda8bae0a4f674b5cb0c7857faf930a097777772e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=207.148.45.58&amp;port=8443&amp;secret=ee90a420a8fef5cbabffcfeefe68f73adb636663666b6b31342e62757a7a",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=143.110.155.189&port=443&secret=ee000000000000000000000000000000006b65746161626f6e6c696e652e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=18.143.175.103&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972",
       "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
     }
   },
   {
     "query": {
+      "link": "tg://proxy?server=14.116.204.59&port=40621&secret=ee86ffe8e3bba21b49165a59cc2422961b7777772e636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=143.198.154.23&amp;port=443&amp;secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=143.198.205.203&port=443&secret=ee3f3a60978bb7c4ff5ad15e3d23a5a3e9626c6f672e636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.219.231.106&port=1888&secret=7mwGU5lUQfW3EL8F3QeWWHpjZi5xcS5jb20",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=18.235.117.59&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=54.169.209.242&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=183.240.220.19&port=22220&secret=ee0a57bcee5ba3257cf488c5edb77bc5ed7777772e62696e672e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=64.227.106.79&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=139.162.46.28&port=63210&secret=ee46d305134450266b9d4db20f897b6141617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.27&port=12377&secret=ee3571a7477125364556b53ba23177630e617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.190&port=27677&secret=ee2c378d212ebca414d2f642029f9f1a96617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.218.155.228&port=443&secret=eeb2713e8fd5516bc6e0dbbab5cc030672617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.27&port=30311&secret=eed39bb2b4f99efdfc2a23fa0c894c7827617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=125.124.34.181&port=29063&secret=ee1cac0fb4c5cfefe2361906f51b12ba36617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.27&port=59559&secret=ee753bfbb9debda364342f03f21afcf6ca617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=45.79.50.115&port=558&secret=eece50eb2926268e6d6bd5540334a9fef8617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=183.240.220.19&port=22221&secret=ee0a57bcee5ba3257cf488c5edb77bc5ed7777772e62696e672e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.218.153.223&port=443&secret=ee66d1d3d3cff26f52fad4e62301e9913a617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=24.199.101.18&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=203.189.1.25&amp;port=59536&amp;secret=ee72987d594fc35d4f6bc61b7da26feeeb617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=183.232.113.6&port=39006&secret=ee0a57bcee5ba3257cf488c5edb77bc5ed7777772e62696e672e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=47.242.238.149&port=8888&secret=eee83bbedbd489a22202d943d387531d10617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=147.182.246.167&amp;port=443&amp;secret=dd0ef5d9234ede6c7c6542b9c30d173f94",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.64&port=12377&secret=ee3571a7477125364556b53ba23177630e617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=156.227.6.253&port=8443&secret=ee4761dc039adf3e56ff1216f7b2da0019617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=54.251.154.3&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=45.12.207.173&port=65077&secret=ee0a5ea14fe8c476ba4678ed9b166244da617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddef\ud83c\uddf5"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.27&port=31919&secret=ee3a3b5e5570e8ef104cb012a31100d8e2617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=42.7.24.133&port=12597&secret=eebf1db17f1ac689ce8efbe57ce7d11a02617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.219.3.110&amp;port=1888&amp;secret=eeea76d7bd520c24001e49d2b19e94c27f63662e71712e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=5.78.91.142&port=443&secret=ee00000000000000000000000000000000616e6e6173682e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=35.168.244.173&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=13.214.134.119&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=34.81.146.131&port=30962&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf9\ud83c\uddfc"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=125.124.34.181&port=59238&secret=ee2a5962ed5e6a4047b46ba2f4d3aa48d0617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
       "link": "tg://proxy?server=14.116.204.59&port=21783&secret=ee1dfacf5743c79e4d1384ecb23feef5397777772e636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.190&port=17085&secret=ee5003a1dc196f55550175f65609fe9a58617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.217.95.38&port=443&secret=eef08917db152577bc3fec7dcd9da1a1c2617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.64&port=49363&secret=ee4f9bb601bf37a51d3994cac7f6309b5b617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=34.92.24.196&port=33659&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=173.82.219.206&port=443&secret=ee942e30b38cf0f76e98ee15bb063e8317617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=16.163.52.125&port=54291&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=45.156.23.84&port=443&secret=ee5d0d3c24fdb9d906da831be6c4082f7b7777772e70617273636f646572732e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=16.162.161.217&port=34302&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=146.190.129.54&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.217.182.150&port=6666&secret=ee28697e513ccf072dc75f0b562bc1fd85617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.190&port=27677&secret=ee2c378d212ebca414d2f642029f9f1a96617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=101.89.155.168&amp;port=27530&amp;secret=ee22567cf0aa8efe7271151cb65b18a4b7617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=5.78.65.160&port=443&secret=ee00000000000000000000000000000000616e6e6173682e636f6d20",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=125.124.34.181&amp;port=20433&amp;secret=ee22567cf0aa8efe7271151cb65b18a4b7617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.218.63.4&port=443&secret=eebefaf1fe832c18c7f5d23c45a6651068617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.217.138.211&port=443&secret=ee21206d894f8f42a96847fdb908b8ceb4617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=165.232.137.164&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=52.194.226.28&port=38080&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddef\ud83c\uddf5"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=52.55.115.219&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.217.81.20&port=443&secret=ee050a80f4f480167821ef3845b81a55af617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=8.218.235.232&port=443&secret=ee19a5bd904052082c2861009718f000b4617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=34.203.143.237&port=443&secret=eed67a1a1090d4d87392bc208c980694f062616c61642e6972",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.64&port=50542&secret=ee9bb399ec4093e8a44def62279637224c617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=35.220.157.213&port=21481&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.64&port=44252&secret=eea9d3f7a570571c3479fc58d9e3162e7d617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=165.22.55.50&port=558&secret=eed2040c67bfaa20499484adf8378cc649617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddf8\ud83c\uddec"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=52.194.226.28&port=46411&secret=eef88aa573bf8f15cc3ee59fc1d05f1a957777772e62616964752e636f6d",
+      "name": "TG@fffffx2|\ud83c\uddef\ud83c\uddf5"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=207.148.45.59&port=8443&secret=ee90a420a8fef5cbabffcfeefe68f73adb636663666b6b31342e62757a7a",
+      "name": "TG@fffffx2|\ud83c\udded\ud83c\uddf0"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=14.29.115.141&port=21783&secret=ee1dfacf5743c79e4d1384ecb23feef5397777772e636c6f7564666c6172652e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=44.218.140.88&port=443&secret=eed67a1a1090d4d87392bc208c980694f07777772e7370656564746573742e6e6574",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.64&port=56285&secret=eedb2b017cbcda89b418ff0365bbab7dec617a7572652e6d6963726f736f66742e636f6d",
+      "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=24.199.118.248&amp;port=443&amp;secret=7g712SNO3mx8ZUK5ww0XP5R3d3cuc3BlZWR0ZXN0Lm5ldA==",
+      "name": "TG@fffffx2|\ud83c\uddfa\ud83c\uddf8"
+    }
+  },
+  {
+    "query": {
+      "link": "tg://proxy?server=120.233.42.27&port=42031&secret=eede16f5093d97482abe859e30a1e08c56617a7572652e6d6963726f736f66742e636f6d",
       "name": "TG@fffffx2|\ud83c\udde8\ud83c\uddf3"
     }
   }

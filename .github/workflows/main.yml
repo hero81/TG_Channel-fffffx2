@@ -16,8 +16,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
         run: |
-          chmod +x ./getmtp
-          ./getmtp
+          chmod +x ./getmtp && ./getmtp     
           git config --global user.email "koi996@pm.me"
           git config --global user.name "hero866"
           git config credential.helper store

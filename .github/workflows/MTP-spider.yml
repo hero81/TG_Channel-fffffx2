@@ -1,0 +1,25 @@
+name: MTP-spider
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '* */6 * * *'
+  watch:
+    types: [started]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run fetch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+        run: |
+          chmod +x ./getmtp && ./getmtp     
+          git config --global user.email "koi996@pm.me"
+          git config --global user.name "hero866"
+          git config credential.helper store
+          git add -A
+          git commit -m "🚀 Proxies Updated - $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
+          git push

@@ -19,7 +19,6 @@ jobs:
           chmod +x ./getmtp && ./getmtp     
           git config --global user.email "koi996@pm.me"
           git config --global user.name "hero866"
-          git config credential.helper store
           git add -A
           git commit -m "🚀 Proxies Updated - $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
           git push

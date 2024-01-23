@@ -11,7 +11,6 @@ proxytestshare4
 bamboo_mtproxy
 qiuyue2
 bamboo_mtproxy
-GKLCAZ
 luzxi13I1724
 dailiu
 fufeikc
@@ -26,7 +25,6 @@ proxyy
 iMTProto
 WiniProxy
 NProxy
-ssrr_vip
 TG_2345
 MTPGY
 v8_555

@@ -12,13 +12,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Run fetch
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+      
+      - name: Configure Git
         run: |
-          chmod +x ./getmtp && ./getmtp     
           git config --global user.email "koi996@pm.me"
           git config --global user.name "hero866"
+
+      - name: Run fetch and update
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          chmod +x ./getmtp
+          ./getmtp
+          git fetch origin main
+          git pull --rebase origin main || true  # 拉取远程更改并尝试合并，冲突时跳过
           git add -A
-          git commit -m "🚀 Proxies Updated - $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
-          git push
+          git commit -m "🚀 Proxies Updated - $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" || true # 如果没有变化则跳过提交
+          git push origin main

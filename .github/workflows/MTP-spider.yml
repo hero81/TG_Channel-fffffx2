@@ -24,8 +24,12 @@ jobs:
         run: |
           chmod +x ./getmtp
           ./getmtp
+
+          # 拉取远程更改并自动合并
           git fetch origin main
-          git pull --rebase origin main || true  # 拉取远程更改并尝试合并，冲突时跳过
+          git reset --soft origin/main  # 强制同步到远程分支，但保留本地改动
           git add -A
-          git commit -m "🚀 Proxies Updated - $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" || true # 如果没有变化则跳过提交
-          git push origin main
+          git commit -m "🚀 Proxies Updated - $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" || true
+
+          # 强制推送
+          git push origin main --force

@@ -3,11 +3,7 @@ juzibaipiao
 hkaa0
 kaopu
 ailumao
-proxytestshare
-proxytestshare1
-proxytestshare2
-proxytestshare3
-proxytestshare4
+mtpproxy888
 bamboo_mtproxy
 qiuyue2
 bamboo_mtproxy
